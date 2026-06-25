@@ -5,6 +5,15 @@ on:
     - cron: "0 11 * * *"
     - cron: "0 12 * * *"
   workflow_dispatch:
+    inputs:
+      force:
+        description: "Post even if it's not 7am ET (for testing)"
+        type: boolean
+        default: false
+      date:
+        description: "Pretend today is this date, YYYY-MM-DD (optional test)"
+        required: false
+        default: ""
 
 jobs:
   shoutout:
@@ -23,4 +32,8 @@ jobs:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
           SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
           CUSTOM_BOT_NAME: ${{ secrets.CUSTOM_BOT_NAME }}
-        run: python shoutout.py
+        run: |
+          ARGS=""
+          if [ "${{ inputs.force }}" = "true" ]; then ARGS="--force"; fi
+          if [ -n "${{ inputs.date }}" ]; then ARGS="$ARGS --date ${{ inputs.date }}"; fi
+          python celebrations-bot/shoutout.py $ARGS
