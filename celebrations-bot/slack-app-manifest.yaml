@@ -1,0 +1,17 @@
+display_information:
+  name: Celebrations Bot
+  description: Posts daily birthday and work-anniversary shout-outs for the team.
+  background_color: "#2c2d30"
+features:
+  bot_user:
+    display_name: Celebrations Bot
+    always_online: true
+oauth_config:
+  scopes:
+    bot:
+      - chat:write          # post messages to channels the bot is in
+      - chat:write.customize # allow custom username/icon per message
+settings:
+  org_deploy_enabled: false
+  socket_mode_enabled: false
+  token_rotation_enabled: false

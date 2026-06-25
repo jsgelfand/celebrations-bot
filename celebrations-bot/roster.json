@@ -1,0 +1,416 @@
+[
+  {
+    "name": "Alec Bernstein",
+    "slack_id": "U05R0A86CG2",
+    "birth_month": 11,
+    "birth_day": 5,
+    "hire_month": 9,
+    "hire_day": 5,
+    "hire_year": 2023
+  },
+  {
+    "name": "Carolyn Bienvenu",
+    "slack_id": "U0A9UB5C9S6",
+    "birth_month": 2,
+    "birth_day": 5,
+    "hire_month": 1,
+    "hire_day": 20,
+    "hire_year": 2026
+  },
+  {
+    "name": "Jesse Blumenau",
+    "slack_id": "U054RL0629E",
+    "birth_month": 11,
+    "birth_day": 24,
+    "hire_month": 4,
+    "hire_day": 10,
+    "hire_year": 2023
+  },
+  {
+    "name": "Caroline Brady",
+    "slack_id": "U0BDPJR7LGG",
+    "birth_month": 4,
+    "birth_day": 12,
+    "hire_month": 6,
+    "hire_day": 24,
+    "hire_year": 2026
+  },
+  {
+    "name": "Emily Burger",
+    "slack_id": "U0971GC89NX",
+    "birth_month": 8,
+    "birth_day": 20,
+    "hire_month": 8,
+    "hire_day": 4,
+    "hire_year": 2025
+  },
+  {
+    "name": "Matthew Burke",
+    "slack_id": "U06FVNF51DL",
+    "birth_month": 3,
+    "birth_day": 25,
+    "hire_month": 1,
+    "hire_day": 29,
+    "hire_year": 2024
+  },
+  {
+    "name": "Emily Carver",
+    "slack_id": "U05C3502J58",
+    "birth_month": 2,
+    "birth_day": 22,
+    "hire_month": 6,
+    "hire_day": 12,
+    "hire_year": 2023
+  },
+  {
+    "name": "Ray Dean",
+    "slack_id": "UBT8MB8CF",
+    "birth_month": 5,
+    "birth_day": 26,
+    "hire_month": 1,
+    "hire_day": 2,
+    "hire_year": 2018
+  },
+  {
+    "name": "Wynn Duncan",
+    "slack_id": "U07B4QY3S04",
+    "birth_month": 1,
+    "birth_day": 7,
+    "hire_month": 7,
+    "hire_day": 8,
+    "hire_year": 2024
+  },
+  {
+    "name": "Amanda Flayhan",
+    "slack_id": "U0744SQ6H2R",
+    "birth_month": 6,
+    "birth_day": 3,
+    "hire_month": 5,
+    "hire_day": 20,
+    "hire_year": 2024
+  },
+  {
+    "name": "Rilea Fusco",
+    "slack_id": "U07H0J85Y6L",
+    "birth_month": 5,
+    "birth_day": 17,
+    "hire_month": 8,
+    "hire_day": 12,
+    "hire_year": 2024
+  },
+  {
+    "name": "David Gelfand",
+    "slack_id": "UBRLFMD25",
+    "birth_month": 5,
+    "birth_day": 19,
+    "hire_month": 9,
+    "hire_day": 5,
+    "hire_year": 2006
+  },
+  {
+    "name": "Jonathan Gelfand",
+    "slack_id": "UBW1XKS80",
+    "birth_month": 11,
+    "birth_day": 20,
+    "hire_month": 7,
+    "hire_day": 1,
+    "hire_year": 2003
+  },
+  {
+    "name": "Josh Gershon",
+    "slack_id": "U0B1W24KSHJ",
+    "birth_month": 1,
+    "birth_day": 3,
+    "hire_month": 6,
+    "hire_day": 1,
+    "hire_year": 2026
+  },
+  {
+    "name": "Paul Herman",
+    "slack_id": "U054RKKJVA4",
+    "birth_month": 12,
+    "birth_day": 31,
+    "hire_month": 4,
+    "hire_day": 19,
+    "hire_year": 2023
+  },
+  {
+    "name": "Philip Lacqua",
+    "slack_id": "UBS3JF5MF",
+    "birth_month": 12,
+    "birth_day": 1,
+    "hire_month": 4,
+    "hire_day": 20,
+    "hire_year": 2015
+  },
+  {
+    "name": "Jennarose Lazzaro",
+    "slack_id": "U05504VA6P7",
+    "birth_month": 6,
+    "birth_day": 22,
+    "hire_month": 4,
+    "hire_day": 26,
+    "hire_year": 2023
+  },
+  {
+    "name": "Jaime Leiman",
+    "slack_id": "UBS3HEF0B",
+    "birth_month": 12,
+    "birth_day": 7,
+    "hire_month": 10,
+    "hire_day": 1,
+    "hire_year": 2013
+  },
+  {
+    "name": "Garrett Lusk",
+    "slack_id": "U09R8ES889Y",
+    "birth_month": 8,
+    "birth_day": 24,
+    "hire_month": 11,
+    "hire_day": 10,
+    "hire_year": 2025
+  },
+  {
+    "name": "Timothy McGuire",
+    "slack_id": "U0541V4NX5G",
+    "birth_month": 8,
+    "birth_day": 10,
+    "hire_month": 4,
+    "hire_day": 10,
+    "hire_year": 2023
+  },
+  {
+    "name": "John Mertz Jr",
+    "slack_id": "U06G27V8N2X",
+    "birth_month": 1,
+    "birth_day": 8,
+    "hire_month": 1,
+    "hire_day": 29,
+    "hire_year": 2024
+  },
+  {
+    "name": "Emily Morse",
+    "slack_id": "U06CYPHKJJU",
+    "birth_month": 11,
+    "birth_day": 4,
+    "hire_month": 1,
+    "hire_day": 3,
+    "hire_year": 2024
+  },
+  {
+    "name": "Alexandra Nuica",
+    "slack_id": "U05KEM8B4TY",
+    "birth_month": 4,
+    "birth_day": 30,
+    "hire_month": 7,
+    "hire_day": 31,
+    "hire_year": 2023
+  },
+  {
+    "name": "Riley Pease",
+    "slack_id": "U09CS99LD7H",
+    "birth_month": 7,
+    "birth_day": 16,
+    "hire_month": 9,
+    "hire_day": 3,
+    "hire_year": 2025
+  },
+  {
+    "name": "Mittal Shah",
+    "slack_id": "U0AUE75FS3W",
+    "birth_month": 9,
+    "birth_day": 14,
+    "hire_month": 4,
+    "hire_day": 21,
+    "hire_year": 2026
+  },
+  {
+    "name": "Brett Skolnik",
+    "slack_id": "UBPUNLECU",
+    "birth_month": 10,
+    "birth_day": 11,
+    "hire_month": 1,
+    "hire_day": 1,
+    "hire_year": 2004
+  },
+  {
+    "name": "Allyson Smerechniak",
+    "slack_id": "U0804UTV13N",
+    "birth_month": 11,
+    "birth_day": 24,
+    "hire_month": 11,
+    "hire_day": 11,
+    "hire_year": 2024
+  },
+  {
+    "name": "Harper Taylor",
+    "slack_id": "U0971GDGJMR",
+    "birth_month": 9,
+    "birth_day": 8,
+    "hire_month": 7,
+    "hire_day": 28,
+    "hire_year": 2025
+  },
+  {
+    "name": "Paul Tziachris",
+    "slack_id": "U052L8G14KW",
+    "birth_month": 7,
+    "birth_day": 30,
+    "hire_month": 4,
+    "hire_day": 10,
+    "hire_year": 2023
+  },
+  {
+    "name": "Eric Vaheb",
+    "slack_id": "U0541V4LSKU",
+    "birth_month": 7,
+    "birth_day": 6,
+    "hire_month": 4,
+    "hire_day": 10,
+    "hire_year": 2023
+  },
+  {
+    "name": "Kunal Vyas",
+    "slack_id": "U0AFNPZ7SN5",
+    "birth_month": 1,
+    "birth_day": 1,
+    "hire_month": 2,
+    "hire_day": 17,
+    "hire_year": 2026
+  },
+  {
+    "name": "Katherine Wills",
+    "slack_id": "U09GR1LC207",
+    "birth_month": 9,
+    "birth_day": 28,
+    "hire_month": 9,
+    "hire_day": 29,
+    "hire_year": 2025
+  },
+  {
+    "name": "Charles Zerbo",
+    "slack_id": "U039LMG9W84",
+    "birth_month": 10,
+    "birth_day": 30,
+    "hire_month": 3,
+    "hire_day": 31,
+    "hire_year": 2022
+  },
+  {
+    "name": "Hannah Clarke",
+    "slack_id": "U06P9PSS5J5",
+    "birth_month": 11,
+    "birth_day": 2,
+    "hire_month": 3,
+    "hire_day": 11,
+    "hire_year": 2024
+  },
+  {
+    "name": "Jesse Cohen",
+    "slack_id": "U0892MD4C2C",
+    "birth_month": 4,
+    "birth_day": 18,
+    "hire_month": 1,
+    "hire_day": 13,
+    "hire_year": 2025
+  },
+  {
+    "name": "Max Cohen",
+    "slack_id": "UBP1TRLAV",
+    "birth_month": 4,
+    "birth_day": 18,
+    "hire_month": 11,
+    "hire_day": 2,
+    "hire_year": 2016
+  },
+  {
+    "name": "David Cornachio",
+    "slack_id": "U01EBHSK4HZ",
+    "birth_month": 7,
+    "birth_day": 16,
+    "hire_month": 11,
+    "hire_day": 9,
+    "hire_year": 2020
+  },
+  {
+    "name": "Isabella Greco",
+    "slack_id": "U087F9RNN9Z",
+    "birth_month": 6,
+    "birth_day": 16,
+    "hire_month": 1,
+    "hire_day": 6,
+    "hire_year": 2025
+  },
+  {
+    "name": "Jonathan Greenberg",
+    "slack_id": "UBPNW0SDT",
+    "birth_month": 5,
+    "birth_day": 28,
+    "hire_month": 4,
+    "hire_day": 1,
+    "hire_year": 2016
+  },
+  {
+    "name": "Laura Rockett",
+    "slack_id": "U05KR711AP4",
+    "birth_month": 3,
+    "birth_day": 1,
+    "hire_month": 8,
+    "hire_day": 1,
+    "hire_year": 2023
+  },
+  {
+    "name": "Michaela Shannon",
+    "slack_id": "U06318MNH9N",
+    "birth_month": 8,
+    "birth_day": 5,
+    "hire_month": 10,
+    "hire_day": 23,
+    "hire_year": 2023
+  },
+  {
+    "name": "Rachel Silverman",
+    "slack_id": "U06CYGHRCQ4",
+    "birth_month": 5,
+    "birth_day": 4,
+    "hire_month": 1,
+    "hire_day": 8,
+    "hire_year": 2024
+  },
+  {
+    "name": "Spencer Torine",
+    "slack_id": "U0AG4SQQQJ3",
+    "birth_month": 9,
+    "birth_day": 8,
+    "hire_month": 2,
+    "hire_day": 24,
+    "hire_year": 2026
+  },
+  {
+    "name": "Jonathan White",
+    "slack_id": "U088E4W9G9Z",
+    "birth_month": 9,
+    "birth_day": 20,
+    "hire_month": 1,
+    "hire_day": 13,
+    "hire_year": 2025
+  },
+  {
+    "name": "Amanda Yannotti",
+    "slack_id": "U082S8H83MZ",
+    "birth_month": 10,
+    "birth_day": 27,
+    "hire_month": 12,
+    "hire_day": 2,
+    "hire_year": 2024
+  },
+  {
+    "name": "Cindy Lin",
+    "slack_id": "U081T8FUJJG",
+    "birth_month": 6,
+    "birth_day": 14,
+    "hire_month": 11,
+    "hire_day": 20,
+    "hire_year": 2024
+  }
+]
