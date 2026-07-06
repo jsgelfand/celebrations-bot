@@ -3,8 +3,7 @@ name: Daily Celebrations Shout-out
 on:
   schedule:
     - cron: "0 11 * * *"
-    - cron: "0 12 * * *"
-  workflow_dispatch:
+    workflow_dispatch:
     inputs:
       force:
         description: "Post even if it's not 7am ET (for testing)"
@@ -33,7 +32,7 @@ jobs:
           SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
           CUSTOM_BOT_NAME: ${{ secrets.CUSTOM_BOT_NAME }}
         run: |
-          ARGS=""
+          ARGS="--force"
           if [ "${{ inputs.force }}" = "true" ]; then ARGS="--force"; fi
           if [ -n "${{ inputs.date }}" ]; then ARGS="$ARGS --date ${{ inputs.date }}"; fi
           python celebrations-bot/shoutout.py $ARGS
